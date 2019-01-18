@@ -5,7 +5,8 @@ This example can be run as a Jupyter notebook or as a standalone application
 through `pyspark_example.py` to demonstrate some of the power of Apache Spark.
 
 
-To run this notebook, install the requirements listed in `requirements.txt` using Minconda3/Anaconda3 and
+To run this notebook, install the requirements listed in `requirements.txt` using Minconda3/Anaconda3 in a conda virtual
+environment and
 `conda create --name spark --file requirements.txt`. Then `source activate spark` to enable it.
 
 This does not install Spark to run in standalone mode.
